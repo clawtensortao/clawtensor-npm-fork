@@ -2,8 +2,6 @@
 
 An MCP server that plugs AI agents directly into Bittensor’s decentralized AI economy. Agents like Claude Code, Cursor, Windsurf, or custom stacks can scan subnets, analyze tokens, track network activity, manage staking, and collectively mine TAO—all through simple natural tool calls.
 
-**14 tools** | **Live on Bittensor mainnet** | **Collective mining**
-
 ## Quick Start
 
 ### Claude Code
